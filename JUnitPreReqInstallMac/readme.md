@@ -16,7 +16,7 @@ For use with all labs as of Jan. 16, 2020
 3.   Quit Terminal before using commands that may require the installed files.   
 ### Video Demonstration
 
-[![Youtube Video: Demo of JUnitPreReqInstall for Mac"](images/video_thumbnail.png)](http://www.youtube.com/watch?v=RX8NSHJieds "Demo of JUnitPreReqInstall for Mac")
+[![YouTube Video: JUnit Install on MacOS"]](http://www.youtube.com/watch?v=RX8NSHJieds "JUnit Install on MacOS")
 
 
 
