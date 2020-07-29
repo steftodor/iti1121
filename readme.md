@@ -9,7 +9,7 @@
 #### Instructions for MacOS
 1.  Run the command in your Terminal
 
-  `curl -O https://raw.githubusercontent.com/ott-tech/steftodor/master/JUnitPreReqInstallMac/JUnitInstaller.sh && chmod +x JUnitInstaller.sh && ./JUnitInstaller.sh`
+  `curl -O https://raw.githubusercontent.com/steftodor/iti1121/master/JUnitPreReqInstallMac/JUnitInstaller.sh && chmod +x JUnitInstaller.sh && ./JUnitInstaller.sh`
 
 2.   Process is completed automatically
 3.   Quit and relaunch Terminal before attempting to use JUnit Tests.
