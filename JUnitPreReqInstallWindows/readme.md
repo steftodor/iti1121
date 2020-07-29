@@ -17,13 +17,3 @@ For use with all labs as of Jan. 16, 2020
 ### Video Demonstration
 
 [![Youtube Video: Demo of JUnitPreReqInstall for Windows"](images/video_thumbnail.png)](http://www.youtube.com/watch?v=a2hPm_UqRuw "Demo of JUnitPreReqInstall for Windows")
-
-
-
-
-
-### Example of completed Install
-
-![completed_install_cmd.png](images/completed_install_cmd.png)
-![completed_install_explorer.png](images/completed_install_explorer.png)
-![completed_install_envirovar.png](images/completed_install_envirovar.png)

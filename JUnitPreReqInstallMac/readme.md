@@ -17,13 +17,3 @@ For use with all labs as of Jan. 16, 2020
 ### Video Demonstration
 
 [YouTube Video: JUnit Install on MacOS](http://www.youtube.com/watch?v=RX8NSHJieds "JUnit Install on MacOS")
-
-
-
-
-
-### Example of completed Install
-
-![completed_install_cmd.png](images/completed_install_cmd.png)
-![completed_install_explorer.png](images/completed_install_explorer.png)
-![completed_install_envirovar.png](images/completed_install_envirovar.png)
