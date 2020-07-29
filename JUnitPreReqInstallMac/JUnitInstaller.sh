@@ -1,5 +1,5 @@
 # author Stefan Todorovic
-# email stodo052@uottawa.ca
+# email contact@stefantodorovic.com
 
 #navigates to home directory
 cd

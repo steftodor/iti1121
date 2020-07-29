@@ -1,4 +1,4 @@
-## ITI 1121 
+## ITI 1121
 
 ### JUnit Prerequisite Installer
 
@@ -9,15 +9,15 @@
 #### Instructions for MacOS
 1.  Run the command in your Terminal
 
-  `curl -O https://raw.githubusercontent.com/ott-tech/iti1121/master/JUnitPreReqInstallMac/JUnitInstaller.sh && chmod +x JUnitInstaller.sh && ./JUnitInstaller.sh`
+  `curl -O https://raw.githubusercontent.com/ott-tech/steftodor/master/JUnitPreReqInstallMac/JUnitInstaller.sh && chmod +x JUnitInstaller.sh && ./JUnitInstaller.sh`
 
 2.   Process is completed automatically
-3.   Quit and relaunch Terminal before attempting to use JUnit Tests. 
+3.   Quit and relaunch Terminal before attempting to use JUnit Tests.
 
 #### Instructions for Windows
 1.  Run the Command in your Command Prompt as Administrator
 
-`powershell -Command "Invoke-WebRequest http://raw.githubusercontent.com/ott-tech/iti1121/master/JUnitPreReqInstallWindows/JUnitInstaller.bat -OutFile C:\JUnitInstaller.bat" && C:\JUnitInstaller.bat`
+`powershell -Command "Invoke-WebRequest http://raw.githubusercontent.com/steftodor/iti1121/master/JUnitPreReqInstallWindows/JUnitInstaller.bat -OutFile C:\JUnitInstaller.bat" && C:\JUnitInstaller.bat`
 
 2.   Process is completed automatically
-3.   Quit and relaunch Command Prompt before attempting to use JUnit Tests. 
+3.   Quit and relaunch Command Prompt before attempting to use JUnit Tests.

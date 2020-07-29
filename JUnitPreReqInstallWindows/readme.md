@@ -10,7 +10,7 @@ For use with all labs as of Jan. 16, 2020
 
 1.  Run the Command in your Command Prompt as Administrator
 
-`powershell -Command "Invoke-WebRequest http://raw.githubusercontent.com/ott-tech/iti1121/master/JUnitPreReqInstallWindows/JUnitInstaller.bat -OutFile C:\JUnitInstaller.bat" && C:\JUnitInstaller.bat`
+`powershell -Command "Invoke-WebRequest http://raw.githubusercontent.com/steftodor/iti1121/master/JUnitPreReqInstallWindows/JUnitInstaller.bat -OutFile C:\JUnitInstaller.bat" && C:\JUnitInstaller.bat`
 
 2.   Process is completed automatically
 3.   Quit Command Prompt before using commands that may require the installed files.   
